@@ -383,7 +383,7 @@ let data = await d3.csv("data.csv");
         const annotations = [
             {
                 note: {
-                label: "The rate of happiness increase is higher for poorer countries, specifically 0.262/$1k for countries with income below $10k, highlighted...",
+                label: "The rate of happiness increase is higher for poorer countries, specifically 0.262/$1k for countries with income below $10k, highlighted here...",
                 wrap: 150,
                 padding: 5
                 },
