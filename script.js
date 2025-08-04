@@ -135,7 +135,7 @@ let data = await d3.csv("data.csv");
         const annotations = [
             {
                 note: {
-                label: "This webpage aims to explore the correlation between various factors and average happiness by country, with happiness measured on a 0-10 scale as a singular 'score'.",
+                label: "This webpage aims to explore the correlation between various factors and average happiness by country, with happiness measured on a 0-10 scale as a singular 'score'. Click 'next' to continue.",
                 wrap: 150,
                 padding: 5
                 },
